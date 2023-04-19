@@ -1,0 +1,1068 @@
+# Language name in their native
+language: "Jawa 🇮🇩"
+# name of people(s) who worked on this translation
+authors: "@greyyvbss"
+
+# languages
+curr_chat_lang: "Hei. Basa sampeyan saiki yaiku {}, pilih sing dikarepake saka tombol ing ngisor iki :)"
+set_chat_lang: "Apik, nggunakake Basa {} iku wiwit saiki! 🤖"
+
+# PM Text
+pm_start_text: |
+  *Hello aku Referz Store Assistant* [⚡️](https://te.legra.ph/file/d70ad4bd44df748796576.jpg)
+  
+  ❍ Referz Store Assistant minangka manajer bot kanggo ngatur grup sampeyan kanthi apik.
+  ❍ Pencet /help kanggo Pitulung.
+  ❍ Dijaga dening @Bintangreferz.
+   
+group_start_text: |
+  *👋🏻 , aku Referz Store Assistant !*
+  
+  *Miwiti aktif wiwit :* `{}`
+
+pm_about_text: |
+  ⚡️ Hai aku *𝒍𝒊𝒃𝒊*, bot manajemen grup sing kuat sing dibangun kanggo mbantu sampeyan ngatur grup kanthi gampang. ⚡️
+
+  ❍ Aku bisa mbatesi pangguna.
+  ❍ Aku bisa menehi salam marang pangguna kanthi pesen sambutan sing bisa disesuaikan lan malah nyetel aturan grup.
+  ❍ Aku duwe sistem anti-banjir sing canggih.
+  ❍ Aku bisa ngelingake pangguna nganti tekan maksimal, kanthi saben tumindak sing wis ditemtokake kayata larangan, bisu, tendhangan, lsp.
+  ❍ Aku duwe sistem nyimpen cathetan, dhaptar ireng, lan malah balesan sing wis ditemtokake ing tembung kunci tartamtu.
+  ❍ Aku mriksa ijin admin sadurunge nglakokake perintah lan liya-liyane
+
+  _𝒍𝒊𝒃𝒊 Ilham dilisensi ing GNU General Public License v3.0_
+  Klik tombol ing ngisor iki kanggo njaluk bantuan dhasar kanggo 𝒍𝒊𝒃𝒊.
+pm_about_admin_text: |
+  *⚡️ Ayo gawe grupmu dadi efektif saiki ⚡️*
+
+  Sugeng rawuh, 𝒍𝒊𝒃𝒊 saiki wis siyap ngatur grupmu.
+
+  *Alat Admin*
+  Piranti Admin dhasar mbantu sampeyan nglindhungi lan nguatake grup sampeyan.
+  Sampeyan bisa nglarang anggota, Kick anggota, Promosi wong minangka admin liwat printah saka bot.
+
+  *Salam*
+  Ayo nyetel pesen sambutan kanggo nampa pangguna anyar sing teka ing grup sampeyan.
+  Kirim `/setwelcome [pesen]` kanggo nyetel pesen sambutan!
+pm_about_notes_text: |
+  *⚡️ Nyetel cathetan ⚡️*
+
+  ❍ Sampeyan bisa nyimpen pesen / media / audio utawa apa wae minangka cathetan kanggo entuk cathetan mung nggunakake # ing wiwitan tembung
+  ❍ Sampeyan uga bisa nyetel tombol kanggo cathetan lan saringan (waca menu pitulung)
+pm_about_support_text: |
+  *⚡️ 𝒍𝒊𝒃𝒊 support chats ⚡️*
+
+  Join Group Dhukungan Kula / Channel kanggo ndeleng utawa laporan masalah ing 𝒍𝒊𝒃𝒊.
+pm_about_credit_text: |
+  *⚡️ Kredit kanggo 𝒍𝒊𝒃𝒊 ⚡️*
+
+  Ing kene Pengembang Nggawe Lan Menehi Inspirasi Kanggo Made The 𝒍𝒊𝒃𝒊
+pm_help_text: |
+  *❍ Klik tombol ing ngisor iki kanggo entuk katrangan babagan prentah spesifik. ✪*
+  
+  ❍ /start : Mulai Aku !! ✨
+  ❍ /help : Prentah Kanggo Nulung Sampeyan
+pm_help_module_text: "Iki bantuan kanggo *{}* modul :\n\n"
+
+# Teks Pitulung Grup
+group_help_text: "Hubungi kula ing PM kanggo njaluk dhaptar bisa printah."
+group_help_modules_text: "Hubungi kula ing PM kanggo njaluk bantuan saka *{}*"
+# Tombol Pitulung Grup
+group_help_button: "Bantuan"
+# Setelan PM
+pm_settings_personal_text: "Iki setelan sampeyan saiki: "
+pm_settings_group_text: "Modul endi sing arep dipriksa setelan {}?"
+pm_settings_groups_text: "*{}* duwe setelan ing ngisor iki kanggo modul *{}*:\n\n"
+pm_settings_groupss_text: |
+    Sugeng rawuh! Ana sawetara setelan kanggo {} - maju lan pilih apa sing sampeyan kasengsem.
+# Teks Setelan Grup
+group_settings_text: "Klik kene kanggo njaluk setelan chatting iki, uga sampeyan."
+# Tombol Setelan Grup
+group_settings_button: "Setelan"
+
+# Help Text
+help_all_text: |
+  *Printah Pitulungan 𝒍𝒊𝒃𝒊* [🗃](https://telegra.ph/file/6f5d77e5f2137215bc22d.jpg)
+  
+  Pilih tombol ing ngisor iki kanggo ndeleng
+  Bantuan printah 𝒍𝒊𝒃𝒊.
+help_musik_cilik_text: |
+  *Robot 𝒍𝒊𝒃𝒊 Nduwe fitur Musik lan Stream* 🎥
+  
+  Sampeyan bisa ngrungokake musik saka platform Youtube, Spotify, Resso lsp.
+  Klik Tombol ing ngisor iki yen sampeyan ora ngerti babagan fitur iki.
+
+# button Help Music
+help_manage: "👮🏻‍♂ Manager"
+help_musik: "🎼 Musik"
+
+# Music Help Pm
+admins_mhelp_text: |
+  *✅Admin Commands:*
+  c stands for channel play.
+   
+  ❍ /pause or /cpause - Pause the playing music.
+  ❍ /resume or /cresume- Resume the paused music.
+  ❍ /mute or /cmute- Mute the playing music.
+  ❍ /unmute or /cunmute- Unmute the muted music
+  ❍ /skip or /cskip- Skip the current playing music.
+  ❍ /stop or /cstop- Stop the playing music
+  ❍ /shuffle or /cshuffle- Randomly shuffles the queued playlist.
+
+  *✅Specific Skip:*
+  ❂ /skip or /cskip Number(example: 3) 
+  - Skips music to a the specified queued number. Example: /skip 3 will skip music to third queued music and will ignore 1 and 2 music in queue.
+
+  *✅Loop Play:*
+  ❍ /loop or /cloop enable/disable or Numbers between 1-10 - When activated, bot loops the current playing music to 1-10 times on voice chat. Default to 10 times.
+
+  *✅Auth Users:*
+  Auth Users can use admin commands without admin rights in your chat.
+  ❍ /auth Username - Add a user to AUTH LIST of the group.
+  ❍ /unauth Username - Remove a user from AUTH LIST of the group.
+  ❍ /authusers - Check AUTH LIST of the group.
+play_mhelp_text: |
+  *✅Play Commands:*
+  cplay or cstream stands for channel play.
+  vplay stands for video play.
+  ❍ /play or /vplay or /cplay  - Bot will start playing your given query on voice chat.
+  ❍ /stream or /cstream - Stream live links on voice chats.
+  ❍ /channelplay Chat username or id or Disable - Connect channel to a group and stream music on channel's voice chat from your group.
+
+  *✅Bot's Server Playlists:*
+  ❍ /playlist  - Check Your Saved Playlist On Servers.
+  ❍ /deleteplaylist - Delete any saved music in your playlist
+  ❍ /play  - Start playing Your Saved Playlist from Servers.
+bot_mhelp_text: |
+  *✅Bot Commands:*
+  ❍ /mstats - Get Top 10 Tracks Global Stats, Top 10 Users of bot, Top 10 Chats on bot, Top 10 Played in a chat etc etc.
+  ❍ /sudolist - Check Sudo Users of Libi Music Bot
+  ❍ /lyrics Music Name - Searches Lyrics for the particular Music on web.
+  ❍ /song Track Name or YT Link - Download any track from youtube in mp3 or mp4 formats.
+  
+  c stands for channel play.
+  ❍ /queue or /cqueue- Check Queue List of Music.
+extra_mhelp_text: |
+  *✅Perintah Ekstra:*
+  ❍ /mstart - Mulai Bot Musik.
+  ❍ /mhelp - Dapatkan Menu Helper Perintah dengan penjelasan rinci tentang perintah.
+  ❍ /mping - Ping Bot dan periksa Ram, Cpu dll statistik Bot.
+
+  *✅Group Settings:*
+  ❍ /msettings - Get a complete group's settings with inline buttons
+  
+  *🔗 Options in Settings:*
+  
+  1️⃣ You can set Audio Quality you want to stream on voice chat.
+
+  2️⃣ You can set Video Quality you want to stream on voice chat.
+ 
+  3️⃣ Auth Users:- You can change admin commands mode from here to everyone or admins only. If everyone, anyone present in you group will be able to use admin commands(like /skip, /stop etc)
+
+  4️⃣ Clean Mode: When enabled deletes the bot's messages after 5 mins from your group to make sure your chat remains clean and good.
+  
+  5️⃣ Command Clean : When activated, Bot will delete its executed commands (/play, /pause, /shuffle, /stop etc) immediately.
+
+  6️⃣ Play Settings:
+
+  ❍ /playmode - Get a complete play settings panel with buttons where you can set your group's play settings. 
+
+  *Options in playmode:*
+
+  1️⃣ Search Mode  Direct or Inline - Changes your search mode while you give /play mode. 
+
+  2️⃣ Play Mode  Group or Channel - Changes your Play mode to channel or group and streams music there only.
+
+  3️⃣ Play Type  Everyone or Admins - If admins, only admins present in group can play music on voice chat.
+
+#Tombol PM
+add_bot_to_group_button: "➕️ Tambah Aku menyang Grup Sampeyan ➕️"
+support_chat_link_button: "📨 Dhukungan"
+updates_channel_link_button: "📣 Nganyari"
+note_button: "Cathetan"
+source_button: "Kode Sumber"
+help_button: "❓ Njaluk Bantuan"
+back_button: "🔙 Balik"
+about_button: "About 𝒍𝒊𝒃𝒊 🤖"
+inline_button: "Coba inline!"
+buttonback_lang: "🔙 Balik"
+datalang: "Basa 🇮🇩" 
+donate_button: "Donasi ☕️"
+
+# Donate
+donate_text: |
+  [👨‍💻](https://telegra.ph/file/02630dc3593b90c9cc0e0.jpg) *Kanggo sampeyan sing pengin nyumbang*
+  mangga pindai Qris ing ngisor iki, supaya bot-bot Libi tetep urip lan mbantu aktivitas sampeyan ing Telegram.
+  
+# MODULES
+admin_help: |
+    ──「 Admin 」──
+
+    *Prentah pangguna*:
+    ❍ /admins*:* dhaptar admin ing obrolan
+    ❍ /pinned*:* kanggo entuk pesen sing disematake saiki.
+
+    *Prentah ing ngisor iki mung Admin:*
+    ❍ /pin*:* menengake pin pesen sing dibales - tambahake `'bareng'` utawa `'kabari'` kanggo menehi kabar marang pangguna
+    ❍ /unpin*:* unpin pesen sing lagi dipasang
+    ❍ /invitelink*:* entuk link invite
+    ❍ /admin*:* promosiake pangguna sing dijawab
+    ❍ /fulladmin*:* promosiaken panganggo sing mangsuli kanthi hak lengkap
+    ❍ /unadmin*:* demotes pangguna sing dijawab
+    ❍ /title <title here>*:* nyetel judhul khusus kanggo admin sing dipromosikan bot
+    ❍ /reload*:* paksa refresh daftar admin
+    ❍ /del*:* mbusak pesen sing sampeyan bales
+    ❍ /purge*:* mbusak kabeh pesen antarane iki lan pesen sing dibales.
+    ❍ /purge <integer X>*:* mbusak pesen sing dibales, lan pesen X ngetutake yen mbales pesen.
+    ❍ /setgtitle <text>*:* atur judhul grup
+    ❍ /setgpic*:* mbales gambar sing arep disetel dadi foto grup
+    ❍ /setdesc*:* Setel deskripsi grup
+    ❍ /setsticker*:* Setel stiker grup
+
+    *Aturan*:
+    ❍ /rules*:* njaluk aturan kanggo chatting iki.
+    ❍ /setrules <aturan sampeyan ing kene>*:* atur aturan kanggo obrolan iki.
+    ❍ /clearrules*:* mbusak aturan kanggo obrolan iki.
+anime_help: |
+    ──「 Panelusuran Anime 」──
+
+    ❍ /anime <anime>: ngasilake informasi babagan anime.
+    ❍ /whatanime: ngasilake sumber anime nalika mbales foto utawa gif.
+    ❍ /character <karakter>: ngasilake informasi bab karakter.
+    ❍ /manga <manga>: ngasilake informasi babagan manga.
+    ❍ /user <user>: ngasilake informasi babagan pangguna MyAnimeList.
+    ❍ /upcoming: ngasilake dhaptar anime anyar ing musim sing bakal teka.
+    ❍ /airing <anime>: ngasilake info siaran anime.
+    ❍ /whatanime <anime>: mbales gif utawa foto.
+    ❍ /kaizoku <anime>: golek anime ing animekaizoku.com
+    ❍ /kayo <anime>: golek anime ing animekayo.com
+
+    ──「 Kutipan Anime 」──
+
+    ❍ /animequotes: kanggo anime kuotasi acak minangka foto.
+    ❍ /kutipan: ngirim kuotasi kanthi acak minangka teks
+antichannel_help: |
+    ──「 Anti-Saluran 」──
+
+        ⚠️ WARNING ⚠️
+
+    *Yen sampeyan nggunakake mode iki, asile ana ing grup ing salawas-lawase sampeyan ora bisa chatting nggunakake saluran kasebut *
+
+    Mode Anti Saluran minangka mode kanggo nglarang pangguna kanthi otomatis sing ngobrol nggunakake Saluran.
+    Printah iki mung bisa digunakake dening *Admins*.
+
+    ❍ /antich <'on'/'yes'> *:* ngaktifake mode anti-saluran
+    ❍ /antich <'off'/'no'> *:* mateni mode anti-saluran
+antiflood_help: |
+    ──「 Anti Banjir 」──
+
+    Antiflood ngidini sampeyan tumindak marang pangguna sing ngirim luwih saka x pesen saurutan. Ngluwihi banjir set \
+    bakal nyebabake mbatesi pangguna kasebut.
+    Iki bakal bisu pangguna yen ngirim luwih saka 10 pesen saurutan, bot ora digatekake.
+    ❍ `/banjir`*:* Entuk setelan kontrol banjir saiki
+
+    *mung Admin :*
+
+    ❍ `/setflood <int/'no'/'off'>`*:* ngaktifake utawa mateni kontrol banjir
+    *Conto:* `/setflood 10`
+    ❍ `/setfloodmode <ban/kick/mute/tban/tmute> <value>`*:* Tindakan sing bakal ditindakake nalika pangguna wis ngluwihi wates banjir. ban / kick / bisu / tmute / tban
+
+    *Cathetan:*
+    Nilai kudu diisi kanggo tban lan tmute!!
+    Bisa dadi:
+    ➩ `5m` = 5 menit
+    ➩ `6h` = 6 jam
+    ➩ `3d` = 3 dina
+    ➩ `1w` = 1 minggu
+antispam_help: |
+    ──「 Anti-Spam 」──
+
+    *mung Admin :*
+    ❍ `/antispam <on/off/yes/no>`*:* Bakal ngalih teknologi antispam utawa mbalekake setelan sampeyan saiki.
+    
+    Anti-Spam, digunakake dening bot devs kanggo nglarang spammer ing kabeh grup. Iki mbantu nglindhungi \
+    sampeyan lan grup sampeyan kanthi ngilangi banjir spam kanthi cepet.
+    *Cathetan:* Pangguna bisa mréntahaké gbans utawa nglaporake spammer
+    
+    Iki uga nggabungake API @Spamwatch kanggo mbusak Spammers sabisa-bisa saka chatroom sampeyan!
+    *Apa iku SpamWatch?*
+    SpamWatch njaga daftar larangan spam
+    Terus mbantu nglarang spammer saka grup sampeyan kanthi otomatis Dadi, sampeyan ora perlu kuwatir babagan spammer sing nyerang grup sampeyan.
+    * Cathetan: * Pangguna bisa mréntahaké larangan spamwatch ing @SpamwatchSupport
+approve_help: |
+    ──「 Disetujui 」──
+
+    Kadhangkala, sampeyan bisa dipercaya pangguna supaya ora ngirim konten sing ora dikarepake.
+    Mungkin ora cukup kanggo nggawe dheweke dadi admin, nanging sampeyan bisa uga ora duwe kunci, daftar ireng, lan anti banjir sing ora ditrapake.
+
+    Iku kanggo persetujuan - nyetujoni pangguna sing bisa dipercaya supaya bisa ngirim
+
+    *Perintah Admin:*
+    ❍ /approval*:* Priksa status persetujuan pangguna ing obrolan iki.
+    ❍ /approve*:* Nyetujoni pangguna. Kunci, daftar ireng, lan anti banjir ora bakal ditrapake maneh.
+    ❍ /unapprove*:* Ora nyetujoni pangguna. Dheweke saiki bakal dikunci, dhaptar ireng, lan anti banjir maneh.
+    ❍ /approved*:* Dhaptar kabeh pangguna sing disetujoni.
+    ❍ /unapproveall*:* Ora disetujoni *kabeh* pangguna ing obrolan. Iki ora bisa dibatalake.
+asupan_help: |
+    ──「 Asupan 」──
+    
+    *Perintah kanggo Modul Asupan:*
+    ❍ /asupan - Searching Intake Tiktok Videos
+    ❍ /ayang - Nggoleki Foto Ayang <Modul iki khusus kanggo wong lajang>
+    ❍ /ppcp - Nggolek Pasangan PP Kanggo Bhestie Panjenengan
+    
+    *Pènget ️:* Modul Iki Mung Kanggo Hiburan !!!
+bansmutes_help: |
+    ──「 Larangan / Bisu 」──
+
+    *Prentah pangguna:*
+
+    ❂ /kickme*:* nyepak pangguna sing ngetokake perintah kasebut
+
+    *mung Admin :*
+
+    ❍ /ban <userhandle>*:* nglarang pangguna. (liwat gagang, utawa balesan)
+    ❍ /sban <userhandle>*:* Larang pangguna kanthi meneng. Mbusak printah, pesen sing dibales lan ora mbales. (liwat gagang, utawa balesan)
+    ❍ /tban <userhandle> x(m/h/d)*:* nglarang pangguna kanggo x wektu. (liwat gagang, utawa balesan). m = menit, h = jam, d = dina.
+    ❍ /unban <userhandle>*:* mbatalake larangan pangguna. (liwat gagang, utawa balesan)
+    ❍ /kick <userhandle>*:* nyepak pangguna metu saka grup, (liwat gagang, utawa balesan)
+    ❍ /mute <userhandle>*:* nggawe bisu pangguna. Bisa uga digunakake minangka balesan, muting balesan menyang pangguna.
+    ❍ /tmute <userhandle> x(m/h/d)*:* bisu pangguna kanggo x wektu. (liwat gagang, utawa balesan). m = menit, h = jam, d = dina.
+    ❍ /unmute <userhandle>*:* unmute pangguna. Bisa uga digunakake minangka balesan, muting balesan menyang pangguna.
+    ❍ /zombies*:* nggoleki akun sing wis dibusak
+    ❍ /zombies clean*:* mbusak akun sing wis dibusak saka grup.
+    ❍ /snipe <chatid> <string>*:* Gawe aku ngirim pesen menyang obrolan tartamtu.
+blacklist_help: |
+    ──「 Daftar ireng 」──
+
+    Blacklists digunakake kanggo mungkasi pemicu tartamtu saka ngandika ing grup. Kapan wae pemicu kasebut, pesen kasebut bakal langsung dibusak. Kombo sing apik kadhangkala dipasangake karo saringan peringatan!
+
+    *CATETAN*: Daftar ireng ora mengaruhi admin grup.
+
+    ❍ /blacklist*:* Deleng tembung sing saiki wis didaftar ireng.
+
+    Admin mung:
+    ❍ /addblacklist <triggers>*:* Tambah pemicu menyang blacklist. Saben baris dianggep siji pemicu, supaya nggunakake garis beda bakal ngidini sampeyan nambah sawetara pemicu.
+    ❍ /unblacklist <triggers>*:* Mbusak pemicu saka dhaptar ireng. Logika baris anyar sing padha ditrapake ing kene, supaya sampeyan bisa mbusak sawetara pemicu bebarengan.
+    ❍ /blacklistmode <off/del/warn/ban/kick/mute/tban/tmute>*:* Tindakan sing ditindakake nalika ana wong sing ngirim tembung sing diselehake ing daftar ireng.
+
+    Stiker daftar ireng digunakake kanggo mungkasi stiker tartamtu. Nalika stiker dikirim, pesen kasebut bakal langsung dibusak.
+    *CATATAN:* Stiker daftar ireng ora mengaruhi admin grup
+    ❍ /blsticker*:* Delengen stiker sing ana ing daftar ireng saiki
+    *mung admin :*
+    ❍ /addblsticker <linker link>*:* Tambah pemicu stiker menyang dhaptar ireng. Bisa ditambahake liwat stiker balesan
+    ❍ /unblsticker <linker link>*:* Mbusak pemicu saka dhaptar ireng. Logika baris anyar sing padha ditrapake ing kene, supaya sampeyan bisa mbusak sawetara pemicu bebarengan
+    ❍ /rmblsticker <stiker link>*:* Padha karo ndhuwur
+    ❍ /blstickermode <delete/ban/tban/mute/tmute>*:* nyiyapake tumindak standar babagan apa sing kudu ditindakake yen pangguna nggunakake stiker sing diselehake ing daftar ireng
+    Cathetan:
+    ❍ <stiker link> bisa dadi `https://t.me/addstickers/<sticker>` utawa mung `<sticker>` utawa mbales pesen stiker
+bug_help : |
+    ──「Laporan Bug」──
+    
+    Laporan Bug Iku modul kanggo nglaporake bug ing bot 𝒍𝒊𝒃𝒊
+    Supaya bot bisa didandani kanthi cepet
+    
+    dhawuh :
+    ❍ /bug <alesan> - Kanggo nglaporake Bug
+    
+    Conto: / bug Music Assistant ora nganti vcg
+chatbot_help: |
+    ──「 Chatbot AI 」──
+
+    𝒍𝒊𝒃𝒊 AI minangka siji-sijine sistem ai sing bisa ndeteksi & mbales nganti 200 basa
+
+    ❍ /chatbot [ON/OFF]: Ngaktifake lan mateni mode AI Chat.
+    ❍ /chatbot EN : Ngaktifake chatbot Inggris mung.
+cleaner_help: |
+    ──「 Pembersih 」──
+
+    Pembersih teks biru mbusak kabeh perintah sing digawe wong ing obrolan sampeyan.
+
+    ❍ /cleanblue <on/off/yes/no>*:* printah resik sawise dikirim
+    ❍ /ignoreblue <word>*:* nyegah reresik otomatis saka printah
+    ❍ /unignoreblue <tembung>*:* mbusak nyegah reresik otomatis saka printah
+    ❍ /listblue*:* dhaptar printah sing saiki dicethakaké
+
+    *Ing ngisor iki mung perintah Disasters, admin ora bisa nggunakake iki:*
+
+    ❍ /gignoreblue <word>*:* sacara global nglirwakake ngresiki teks biru saka tembung sing disimpen ing Saitama.
+    ❍ /ungignoreblue <word>*:* mbusak printah kasebut saka dhaptar reresik global
+connection_help: |
+    ──「 Sambungan 」──
+
+    Kadhangkala, sampeyan mung pengin nambah sawetara cathetan lan saringan menyang grup chatting, nanging sampeyan ora pengin everyone kanggo ndeleng; Iki ngendi sambungan teka ...
+    Iki ngidini sampeyan nyambung menyang database chatting, lan nambah iku tanpa printah katon ing chatting! Kanggo alasan sing jelas, sampeyan kudu dadi admin kanggo nambah barang; nanging anggota grup bisa ndeleng data sampeyan.
+
+    ❍ /connect: Nyambung menyang chatting (Bisa ditindakake ing grup kanthi /connect utawa /connect <chat id> ing PM)
+    ❍ /connection: Dhaptar obrolan sing disambungake
+    ❍ /disconnect: Pedhot saka obrolan
+    ❍ /helpconnect: Dhaptar printah sing kasedhiya sing bisa digunakake saka jarak jauh
+
+    *mung Admin :*
+
+    ❍ /allowconnect <yes/no>: ngidini pangguna nyambung menyang obrolan
+disabling_help: |
+    ──「 Pateni 」──
+
+    ❍ /cmds*:* mriksa status printah sing dipateni saiki
+
+    *mung Admin:*
+
+    ❍ /enable <cmd name>*:* ngaktifake perintah kasebut
+    ❍ /disable <cmd name>*:* mateni perintah kasebut
+    ❍ /enablemodule <module name>*:* ngaktifake kabeh printah ing modul kasebut
+    ❍ /disablemodule <module name>*:* mateni kabeh perintah ing modul kasebut
+    ❍ /listcmds*:* dhaptar kabeh printah sing bisa diganti
+extras_help: |
+    ──「 Ekstra 」──
+
+    ❍ /markdownhelp*:* ringkesan cepet babagan cara kerja markdown ing telegram - mung bisa ditelpon ing obrolan pribadi
+    ❍ /paste*:* Simpen isi balesan menyang `nekobin.com` lan mbales nganggo url
+    ❍ /spaste*:* Nyimpen isi balesan menyang `spaceb.in` lan mbales nganggo url
+    ❍ /react*:* Reaksi kanthi reaksi acak
+    ❍ /ud <word>*:* Ketik tembung utawa ekspresi sing arep digoleki
+    ❍ /reverse*:* Nggoleki gambar mbalikke saka media sing dijawab.
+    ❍ /wiki <query>*:* wikipedia pitakon sampeyan
+    ❍ /wall <query>*:* njaluk wallpaper saka wall.alphacoders.com
+    ❍ /cash*:* konverter mata uang
+
+      Tuladha:
+      ➩ `/awis 1 USD INR`
+            _UTAWA_
+      ➩ `/dhuwit 1 usd inr`
+         Output: `1,0 USD = 75,505 INR`
+MARKDOWN_HELP: |
+    ──「 Bantuan Markdown 」──
+
+    Markdown minangka alat format sing kuat banget sing didhukung dening telegram. {dispatcher.bot.first_name} duwe sawetara dandan, kanggo mesthekake yen \
+    pesen sing disimpen wis diurai kanthi bener, lan ngidini sampeyan nggawe tombol.
+
+    ❍ <code>_italic_</code>: mbungkus teks nganggo '_' bakal ngasilake teks miring
+    ❍ <code>*bold*</code>: mbungkus teks nganggo '*' bakal ngasilake teks sing kandel
+    ❍ <code>`code`</code>: mbungkus teks nganggo ''' bakal ngasilake teks monospace, uga dikenal minangka 'kode'
+    ❍ <code>[sometext](someURL)</code>: iki bakal nggawe link - pesen mung bakal nuduhake <code>sometext</code>, \
+    lan nutul bakal mbukak kaca ing <code>someURL</code>.
+    <b>Conto:</b><code>[test](example.com)</code>
+
+    ❍ <code>[buttontext](buttonurl:someURL)</code>: iki minangka tambahan khusus kanggo ngidini pangguna duwe telegram \
+    tombol ing markdown sing. <code>buttontext</code> bakal ditampilake ing tombol, lan <code>someurl</code> \
+    bakal dadi url sing dibukak.
+    <b>Conto:</b> <code>[Iki tombol](buttonurl:example.com)</code>
+
+    Yen sampeyan pengin pirang-pirang tombol ing baris sing padha, gunakake: padha, kaya:
+    <kode>[siji](buttonurl://example.com)
+    [loro](buttonurl://google.com:padha)</code>
+    Iki bakal nggawe rong tombol ing baris siji, tinimbang siji tombol saben baris.
+
+    Elinga yen pesen sampeyan <b>WAJIB</b> ngemot sawetara teks liyane saka mung tombol!
+MARKDOWN_HELP_TEXT_1: "Coba terusake pesen ing ngisor iki menyang aku, lan sampeyan bakal weruh, lan Gunakake #test!"
+MARKDOWN_HELP_TEXT_2: |
+    /save test Iki test markdown. _miring_, *bold*, kode,
+    [URL](conto.com) [tombol](buttonurl:github.com)
+    [button2](buttonurl://google.com:padha)
+fsub_feds_help: |
+    ──「 F-Subs / Feds 」──
+
+    *Paksa Subscribe:*
+
+    𝒍𝒊𝒃𝒊 bisa bisu anggota sing ora langganan saluran sampeyan nganti langganan Yen aktif aku bakal bisu anggota sing ora langganan lan nuduhake tombol unmute. Nalika padha menet tombol aku bakal unmute wong
+
+    *Setup* *:* *Mung pangripta*
+    ❍ Tambahake aku ing grup sampeyan minangka admin
+    ❍ Tambah aku ing saluran sampeyan minangka admin
+    
+    *Prentah*
+    ❍ /fsub {channel username} - Kanggo nguripake lan nyetel saluran.
+
+      💡Nggawe iki dhisik...
+
+    ❍ /fsub - Kanggo entuk setelan saiki.
+    ❍ /fsub disable - Kanggo nguripake ForceSubscribe..
+
+      💡Yen sampeyan mateni fsub, sampeyan kudu nyetel maneh supaya bisa digunakake.. /fsub {jeneng saluran}
+
+    ❍ /fsub clear - Kanggo unmute kabeh anggota sing aku bisu.
+
+    *Federasi*
+    Kabeh iku nyenengake, nganti spammer wiwit ngetik grup, lan sampeyan kudu mblokir. Banjur sampeyan kudu miwiti nglarang liyane, lan liyane, lan nyengsarakke.
+    Nanging sampeyan duwe akeh grup, lan sampeyan ora pengin spammer iki ing salah siji saka grup - carane sampeyan bisa menehi hasil? Apa sampeyan kudu mblokir kanthi manual, ing kabeh grup sampeyan?\n
+    *Ora ana maneh!* Kanthi Federasi, sampeyan bisa nggawe larangan ing siji obrolan tumpang tindih karo kabeh obrolan liyane.\n
+    Sampeyan malah bisa milih admin federasi, supaya admin sing dipercaya bisa nglarang kabeh spammer saka obrolan sing pengin sampeyan lindungi.\n
+    *Prentah:*\n
+    Feds saiki dipérang dadi 3 bagean kanggo gampang.
+    ❍ `/fedownerhelp`*:* Nyedhiyani pitulungan kanggo nggawe feed lan printah mung pemilik
+    ❍ `/fedadminhelp`*:* Nyedhiyani bantuan kanggo printah administrasi feed
+    ❍ `/feduserhelp`*:* Nyedhiyani bantuan kanggo printah sing bisa digunakake sapa wae
+FED_OWNER_HELP: |
+    ──「 Panganan 」──
+
+    *👑 Mung Pemilik Fed:*
+    ❍ `/newfed <fed_name>`*:* Nggawe Federasi, Siji sing diidini saben pangguna
+    ❍ `/renamefed <fed_id> <new_fed_name>`*:* Ganti jeneng id feed dadi jeneng anyar
+    ❍ `/delfed <fed_id>`*:* Mbusak Federasi, lan informasi apa wae sing ana gandhengane. Ora bakal mbatalake pangguna sing diblokir
+    ❍ `/fpromote <user>`*:* Nemtokake pangguna minangka admin federasi. Ngaktifake kabeh printah kanggo pangguna ing `Fed Admins`
+    ❍ `/fdemote <user>`*:* Ngilangake pangguna saka Federasi admin menyang pangguna normal
+    ❍ `/subfed <fed_id>`*:* Lengganan ID feed sing diwenehake, larangan saka feed langganan kasebut uga bakal kelakon ing feed sampeyan
+    ❍ `/unsubfed <fed_id>`*:* Batal langganan ID feed sing diwenehake
+    ❍ `/setfedlog <fed_id>`*:* Nyetel grup minangka basis laporan log panganan kanggo federasi
+    ❍ `/unsetfedlog <fed_id>`*:* Mbusak grup kasebut minangka basis laporan log feed kanggo federasi
+    ❍ `/fbroadcast <pesen>`*:* Nyiarake pesen menyang kabeh grup sing wis gabung karo feed sampeyan
+    ❍ `/fedsubs`*:* Nuduhake feed sing dilanggan grup sampeyan `(broken rn)`
+FED_ADMIN_HELP: |
+    ──「 Panganan 」──
+
+    *🔱 Admin Fed:*
+    ❍ `/fban <user> <reason>`*:* Fed nglarang pangguna
+    ❍ `/unfban <user> <reason>`*:* Mbusak pangguna saka larangan panganan
+    ❍ `/fedinfo <fed_id>`*:* Informasi babagan Federasi kasebut
+    ❍ `/joinfed <fed_id>`*:* Gabung karo obrolan saiki menyang Federasi. Mung pamilik chatting bisa nindakake iki. Saben chatting mung bisa ing siji Federasi
+    ❍ `/leavefed <fed_id>`*:* Ninggalake Federasi diwenehi. Mung pamilik chatting bisa nindakake iki
+    ❍ `/setfrules <rules>`*:* Atur aturan Federasi
+    ❍ `/fedadmins`*:* Tampilake admin Federasi
+    ❍ `/fbanlist`*:* Nampilake kabeh pangguna sing dadi korban ing Federasi saiki
+    ❍ `/fedchats`*:* Entuk kabeh obrolan sing disambungake ing Federasi
+    ❍ `/chatfed `*:* Deleng Federasi ing obrolan saiki\n
+FED_USER_HELP: |
+    ──「 Panganan 」──
+
+    *🎩 Sembarang pangguna:*
+    ❍ /fbanstat*:* Nuduhake yen sampeyan/utawa pangguna sing sampeyan bales utawa jeneng pangguna dilarang ing endi wae utawa ora
+    ❍ /fednotif <on/off>*:* Setelan Federasi ora ana ing PM nalika ana pangguna sing diblokir/dilarang
+    ❍ /frules*:* Deleng Peraturan Federasi\n
+filters_help: |
+    ──「 Filter 」──
+
+    ❍ /filters*:* Dhaptar kabeh saringan aktif sing disimpen ing obrolan.
+    *mung Admin :*
+    ❍ /filter <keyword> <reply message>*:* Tambah filter menyang chatting iki. Bot saiki bakal mangsuli pesen kasebut kapan wae 'kata kunci'\
+    kasebut. Yen sampeyan mbales stiker nganggo tembung kunci, bot bakal mbales nganggo stiker kasebut. CATETAN: kabeh filter \
+    tembung kunci ana ing aksara 𝒍𝒊𝒃𝒊. Yen sampeyan pengin tembung kunci dadi ukara, gunakake kuotasi. contone: /filter "hey there" Piye sampeyan \
+    nindakake?
+    Pisahake balesan beda kanthi `%%%` kanggo entuk balesan acak
+      *Conto:*
+      ➩ `/filter "jeneng saringan"
+         Wangsulan 1
+         %%%
+         Wangsulan 2
+         %%%
+         Wangsulan 3`
+
+    ❍ /stop <filter keyword>*:* Stop filter kasebut.
+
+    * Mung nggawe chatting:*
+
+    ❍ /removeallfilters*:* Mbusak kabeh saringan obrolan bebarengan.
+    *Cathetan*: Filter uga ndhukung formatters markdown kaya: {first}, {last} etc.. lan tombol.
+    Priksa / markdownhelp kanggo ngerti luwih akeh!
+fun_help: |
+    ──「 Seneng 」──
+
+    ❍ /runs*:* mangsuli string acak saka larik balesan
+    ❍ /slaps*:* tampar pangguna, utawa tampar yen dudu balesan
+    ❍ /shrug*:* ngangkat bahu XD
+    ❍ /table*:* njaluk flip/unflip :v
+    ❍ /decide *: * Jawab kanthi acak ya / ora / bisa uga
+    ❍ /tos*:* Tos A koin
+    ❍ /bluetext*:* cek dhewe :V
+    ❍ /roll*:* Gulung dadu
+    ❍ /rlg*:* Sambungake kuping, irung, tutuk lan gawe emo ;-;
+    ❍ /shout <keyword>*:* tulisen apa wae sing arep diceluk banter
+    ❍ /weebify <text>*:* ngasilake teks weebified
+    ❍ /sanitize*:* tansah gunakake sadurunge / tepuk utawa kontak apa wae
+    ❍ /pat*:* nepuk panganggo, utawa tepuk
+    ❍ /8bal*:* prédhiksi nganggo metode 8bal
+
+    - Animasi
+    ❍ /love *:* Animation For Love ❤️
+    ❍ /hack *:* Animasi Kanggo Hacking
+    ❍ /moon *:* Animasi Kanggo Bulan 🌕
+    ❍ /block *:* Animasi Kanggo Blok 🟦
+    ❍ /bom *:* Animasi Kanggo Bom 💣
+    ❍ /kill *:* Animasi Kanggo Kill 🔪
+
+    - Pangiriman
+    ❍ /couples - entuk pasangan dina iki
+misc_help: | 
+    ──「 Misc 」──
+   
+    - Punika bantuan kanggo modul Misc:
+    
+    *Magic Text* ✨
+    ❍ /magictext <teks> - Magic Your Text.
+    
+    *Converter* 🔄
+    ❍ /mtoi <balesan stiker> - Ngonversi Stiker menyang Gambar.
+    ❍ /mtos <balesan gambar> - Ngonversi Gambar dadi Stiker.
+greetings_help: |
+    ──「 Salam 」──
+
+    *mung Admin :*
+    ❍ /welcome <on/off>*:* ngaktifake/mateni pesen sambutan.
+    ❍ /welcome*:* nuduhake setelan sambutan saiki.
+    ❍ /welcome noformat*:* nuduhake setelan sambutan saiki, tanpa format - migunani kanggo daur ulang pesen sambutan sampeyan!
+    ❍ / pamit *: * panggunaan lan args sing padha karo `/welcome`.
+    ❍ /setwelcome <sometext>*:* atur pesen sambutan khusus. Yen digunakake kanggo mbales media, nggunakake media kasebut.
+    ❍ /setgoodbye <sometext>*:* atur pesen pamit khusus. Yen digunakake kanggo mbales media, nggunakake media kasebut.
+    ❍ /resetwelcome*:* reset menyang pesen sambutan standar.
+    ❍ /resetgoodbye*:* reset menyang pesen pamit standar.
+    ❍ /cleanwelcome <on/off>*:* Ing anggota anyar, coba mbusak pesen sambutan sadurunge supaya ora ngirim spam ing obrolan.
+    ❍ /welcomemutehelp*:* menehi informasi babagan bisu sambutan.
+    ❍ /cleanservice <on/off*:* mbusak pesen layanan sambutan telegram/ngiwa.
+    *Conto:*
+    pangguna gabung chatting, pangguna kiwa chatting.
+    *Welcome Markdown:*
+    ❍ /welcomehelp*:* deleng informasi format liyane kanggo pesen sambutan/pamit khusus.
+WELCOME_HELP_TEXT: |
+    ──「 Pitulung Format Salam 」──
+
+    "Pesen sambutan/pamit grup sampeyan bisa dipersonalisasi kanthi macem-macem cara. Yen sampeyan pengin pesen"
+    "Kanggo digawe individu, kaya pesen sambutan standar, sampeyan bisa nggunakake *variabel iki:\n"
+    "  ❍ `{first}`*:* iki makili *jeneng sepisanan* pangguna\n"
+    "  ❍ `{last}`*:* iki nggambarake jeneng *pungkasan* pangguna. Default kanggo *jeneng ngarep* yen pangguna ora duwe "
+    "jeneng mburi.\n"
+    "  ❍ `{fullname}`*:* iki makili *jeneng lengkap* pangguna. Default kanggo *jeneng ngarep* yen pangguna ora duwe "
+    "jeneng mburi.\n"
+    "  ❍ `{username}`*:* iki makili *username* pangguna. Default kanggo *sebutan* pangguna "
+    "jeneng ngarep yen ora duwe jeneng panganggo.\n"
+    "  ❍ `{mention}`*:* iki mung *nyebutake* pangguna - menehi tag nganggo jeneng ngarep.\n"
+    "  ❍ `{id}`*:* iki makili *id* pangguna\n"
+    "  ❍ `{count}`*:* iki nuduhake *nomer anggota* pangguna.\n"
+    "  ❍ `{chatname}`*:* iki makili *jeneng chatting saiki*.\n"
+    "\nSaben variabel WAJIB diubengi `{}` kanggo diganti.\n"
+    "Pesen sambutan uga ndhukung markdown, supaya sampeyan bisa nggawe unsur bold/italic/code/links."
+    "Tombol uga didhukung, supaya sampeyan bisa nggawe sambutan katon apik tenan karo sawetara intro apik"
+    "tombol.\n"
+    f"Kanggo nggawe tombol sing nyambungake aturan sampeyan, gunakake iki: `[Aturan](buttonurl://t.me/{dispatcher.bot.username}?start=group_id)`. "
+    "Ganti wae `group_id` karo id grup sampeyan, sing bisa dipikolehi liwat /id, lan sampeyan bisa "
+    "Go. Elinga yen id grup biasane didhisiki tandha `-`; iki dibutuhake, mula aja "
+    "mbusak.\n"
+    "Sampeyan malah bisa nyetel gambar / gif / video / pesen swara minangka pesen sambutan dening "
+    "mbales menyang media sing dikarepake, lan nelpon `/setwelcome`."
+WELCOME_MUTE_HELP_TEXT: |
+    ──「 Salam Bantuan Format Bisu 」──
+
+    "Sampeyan bisa njaluk bot kanggo bisu wong anyar sing gabung karo grup sampeyan lan mulane nyegah spambots mbanjiri grup sampeyan."
+    "Pilihan ing ngisor iki bisa ditindakake:\n"
+    "  ❍ `/welcomemute soft`*:* mbatesi anggota anyar ngirim media sajrone 24 jam.\n"
+    "  ❍ `/welcomemute strong`*:* nggawe bisu anggota anyar nganti nutul tombol kanggo verifikasi yen dheweke iku manungsa.\n"
+    "  ❍ `/welcomemute captcha`*:* nggawe bisu anggota anyar nganti padha ngrampungake tombol captcha lan verifikasi yen dheweke iku manungsa.\n"
+    "  ❍ `/welcomemute off`*:* mateni welcomemute.\n"
+    "*Catetan:* Mode kuwat nyepak pangguna saka obrolan yen ora verifikasi sajrone 120detik. Nanging dheweke bisa gabung maneh"
+info_and_afk_help: |
+    ──「Info lan AFK 」──
+
+    *ID:*
+    ❍ /id*:* entuk id grup saiki. Yen digunakake kanthi mbales pesen, entuk id pangguna kasebut.
+    ❍ /gifid*:* wangsuli gif kanggo kula kanggo ngandhani ID file kasebut.
+    
+    *Informasi tambahan:*
+    ❍ /setme <text>*:* bakal nyetel info sampeyan
+    ❍ /me*:* bakal entuk informasi sampeyan utawa pangguna liyane.
+    Tuladha:
+    ❍ /setme Aku serigala.
+    ❍ /me @username(default kanggo sampeyan yen ora ana pangguna sing ditemtokake)
+    
+    *Informasi liyane kanggo sampeyan:*
+    ❍ /bio*:* bakal entuk bio sampeyan utawa pangguna liyane. Iki ora bisa disetel dhewe.
+    ❍ /setbio <text>*:* nalika mbales, bakal nyimpen bio pangguna liyane
+    Tuladha:
+    ❍ /bio @username(default kanggo sampeyan yen ora ditemtokake).
+    ❍ /setbio Panganggo iki asu ajag (wangsulane pangguna)
+    
+    *Informasi sakabèhé babagan sampeyan:*
+    ❍ /info*:* entuk informasi babagan pangguna.
+    
+    *json Informasi rinci:*
+    ❍ /json*:* Entuk informasi rinci babagan pesen apa wae.
+    
+    *AFk:*
+    Nalika ditandhani minangka AFK, sembarang sebutno bakal mangsuli karo pesen nyatakake yen sampeyan ora kasedhiya!
+    ❍ /afk <alasan>*:* Tandhani dhewe minangka AFK.
+      - brb <alesan>: Padha karo dhawuh afk, nanging dudu dhawuh.
+      
+    *Kesehatan iku opo?*
+    Teka lan deleng [Sistem HP diterangake](https://t.me/libisupport/1199)
+language_help: |
+    ──「Basa」──
+
+    Ora saben klompok nganggo basa Inggris lancar; sawetara kelompok luwih seneng Fumika nanggapi ing basa dhewe.
+
+    Iki ngendi terjemahan teka; sampeyan bisa ngganti basa paling balesan dadi ing basa pilihan!
+
+    Basa sing kasedhiya yaiku:
+    ❍ ID (Indonesia)
+    ❍ SU (Sunda)
+    ❍ EN (Inggris)
+    ❍ JA (Javanese/Jawa)
+    Perintah admin:
+    ❍ /setlang (basa): Setel basa sing disenengi.
+locks_help: |
+    ──「Kunci」──
+
+    Apa stiker ngganggu sampeyan? utawa pengin supaya wong nuduhake pranala? utawa gambar? \
+    Sampeyan ana ing panggonan sing bener!
+    Modul kunci ngidini sampeyan ngunci sawetara item umum ing \
+    telegram donya; bot bakal kanthi otomatis mbusak mau!
+
+    ❍ /locktypes*:* Ndhaptar kabeh kemungkinan locktypes
+
+    *mung Admin:*
+    ❍ /lock <type>*:* Kunci item saka jinis tartamtu (ora kasedhiya ing pribadi)
+    ❍ /unlock <type>*:* Mbukak kunci item saka jinis tartamtu (ora kasedhiya ing pribadi)
+    ❍ /locks*:* Dhaptar kunci saiki ing obrolan iki.
+
+    Kunci bisa digunakake kanggo matesi pangguna grup.
+    contone:
+    Ngunci url bakal otomatis mbusak kabeh pesen sing nganggo url, stiker ngunci bakal mbatesi kabeh \
+    pangguna non-admin saka ngirim stiker, etc.
+    Ngunci bot bakal mungkasi non-admin saka nambah bot menyang chatting.
+
+    *Cathetan:*
+    ❍ Ijin mbukak kunci *info* bakal ngidini anggota (non-admin) ngganti informasi grup, kayata deskripsi utawa jeneng grup
+    ❍ Mbukak kunci ijin *pin* bakal ngidini anggota (non-admin) masang pesen ing grup
+logchannel_help: |
+    ──「 Saluran log 」──
+
+    ❍ /logchannel*:* njaluk info saluran log
+    ❍ /setlog*:* nyetel saluran log.
+    ❍ /unsetlog*:* mbusak setelan saluran log.
+
+    *Nyetel saluran log ditindakake dening:
+
+    ➩ nambahake bot menyang saluran sing dikarepake (minangka admin!)
+    ➩ ngirim / setlog ing saluran
+    ➩ nerusake / setlog menyang grup
+logomarker_help: |
+    ──「 Penanda Logo 」──
+    
+    Iki menu bantuan kanggo logomaker
+    ❍ /logo <text/name> - Nggawe logo kanthi tampilan acak.
+    ❍ /wlogo <text/name> - Gawe logo kanthi tampilan sing amba.
+    ❍ /slogo <text/name> - Nggawe logo karo bocah-bocah wadon foto.
+   
+    *Image Editor : *
+    ❍ /edit <reply photo> - to edit image.
+mentions_help: |
+    ──「 Sebutake 」──
+    
+    Sebutake kabeh minangka modul kanggo menehi tag kabeh anggota grup sampeyan; padha karo bot mentions.
+    Iki menu bantuan kanggo Nyebut.
+    ❍ /kabeh <tembung> - Sebutake Kabeh
+    ❍ /batal - Stop Sebutan
+
+    Tuladha : /all Up There is TMO.|
+sosmed_help: |
+    ──「 Sosmed 」──
+
+    *💬 Sosmed Commands:*
+    
+    ❍ /tt (link) - Download video Tiktok tanpa watermark. 
+    ❍ /ig (link) - Download video utawa foto ing Instagram.
+    ❍ /pint (link) - Download video utawa foto di Pinterest.
+
+write_help: |
+    ──「 Tulis 」──
+    
+    Nulis minangka modul kanggo sampeyan sing males nulis tugas sekolah ing buku.
+    Cara nggunakake:
+    
+    ❍ /tulis1 <text>
+    ❍ /tulis2 <text>
+    
+    *NOTE:* Iki mung kanggo wong kesed mweehehe...
+notes_help: |
+    ──「 Cathetan 」──
+
+    ❍ /get <notename>*:* entuk cathetan nganggo notename iki
+    ❍ #<notename>*:* padha karo /get
+    ❍ /notes utawa /saved *: * dhaptar kabeh cathetan sing disimpen ing obrolan iki
+    ❍ /number *:* Bakal narik cathetan nomer kasebut ing dhaptar
+    Yen sampeyan pengin njupuk isi cathetan tanpa format, gunakake `/get <notename> noformat`. Iki bisa \
+    migunani nalika nganyari cathetan saiki
+
+    *mung Admin :*
+    ❍ /save <notename> <notedata>*:* nyimpen notedata minangka cathetan kanthi jeneng notename
+    Tombol bisa ditambahake menyang cathetan kanthi nggunakake sintaks link markdown standar - pranala kasebut mung kudu ditambah karo \
+    `buttonurl:` bagean, kayata: `[somelink](buttonurl:example.com)`. Priksa `/markdownhelp` kanggo informasi luwih lengkap
+    ❍ /save <notename>*:* simpen pesen sing dibales minangka cathetan kanthi jeneng notename
+    Pisah balesan beda kanthi `%%%` kanggo njupuk cathetan acak
+    *Conto:*
+      ➩ `/save jeneng cathetan
+         Wangsulan 1
+         %%%
+         Wangsulan 2
+         %%%
+         Wangsulan 3`
+
+    ❍ /clear <notename>*:* cetha cathetan karo jeneng iki
+    ❍ /removeallnotes*:* mbusak kabeh cathetan saka grup
+
+    * Cathetan:* Jeneng cathetan ora sensitif huruf 𝒍𝒊𝒃𝒊, lan kanthi otomatis diowahi dadi huruf 𝒍𝒊𝒃𝒊 sadurunge disimpen.
+reports_help: |
+    ──「Laporan」──
+
+    ❍ /reports <alesan>*:* bales pesen kanggo lapor menyang admin.
+    ❍ @admin*:* bales pesen kanggo lapor menyang admin.
+    *CATETAN:* Ora ana sing bakal dipicu yen digunakake dening admin.
+
+    *mung Admin :*
+    ❍ /reports <on/off>*:* ngganti setelan laporan, utawa ndeleng status saiki.
+    ❍ Yen rampung ing pm, ganti status sampeyan.
+    ❍ Yen ing grup, ganti status grup kasebut.
+search_help: |
+    ──「 Telusuri 」──
+
+    ❍ /google <query>*:* Tindakake panelusuran google
+    ❍ /image <query>*:* Telusuri Google kanggo gambar lan bali maneh\nKanggo nomer luwih. saka asil nemtokake lim, Contone: `/img hello lim=10`
+    ❍ /app <appname>*:* Nggoleki app ing Play Store lan ngasilake rincian.
+    ❍ /reverse: Nggoleki gambar mbalikke saka media sing dijawab.
+    ❍ /gps <lokasi>*:* Entuk lokasi gps.
+    ❍ /github <username>*:* Entuk informasi babagan pangguna GitHub.
+    ❍ /country <jeneng negara>*:* Nglumpukake informasi babagan negara tartamtu
+    ❍ /imdb <Jeneng Film>*:* Entuk informasi lengkap babagan film nganggo imdb.com
+    ❍ Libi <query>*:* Libi njawab pitakonan
+
+    💡 Ex : `Libi ngendi Jepang?`
+stickers_help: |
+    ──「 Stiker 」──
+
+    *Menu pitulung kanggo alat stiker*
+    ❍ /stickerid*:* wangsulan stiker menyang aku kanggo ngandhani ID file kasebut.
+    ❍ /getsticker*:* bales stiker kanggo ngunggah file PNG mentah.
+    ❍ /kang*:* mbales stiker kanggo ditambahake menyang paket sampeyan.
+    ❍ /delsticker*:* Balas stiker anime ana ing paket sampeyan kanggo mbusak.
+    ❍ /stickers*:* Temokake stiker kanggo istilah tartamtu ing katalog stiker combot
+    ❍ /tiny*:* Kanggo nggawe stiker 𝒍𝒊𝒃𝒊
+    ❍ /kamuii <1-8> *:* Kanggo deepefying stiker
+    ❍ /mmf <reply with text>*:* Kanggo nggambar teks kanggo stiker utawa pohot
+tools_help: |
+    ──「 Alat 」──
+
+    *Sangmata Info bot*
+    ❍ /sg <reply>*:* Kanggo mriksa jeneng riwayat
+
+    *Tanggal-wektu-Cuaca*
+    ❍ /time <kode negara>*:* Menehi informasi babagan zona wektu.
+    ❍ /weather <kutha>*:* Entuk informasi cuaca ing panggonan tartamtu.
+    ❍ /wttr <city>*:* Modul cuaca canggih, panggunaane padha karo /weather
+    ❍ /wttr rembulan*:* Entuk status rembulan saiki
+
+    *Konversi*
+    ❍ /encrypt*:* Ngenkripsi Teks sing Diwenehi
+    ❍ /decrypt*:* Dekripsi Teks sing Dienkripsi Sadurunge
+    ❍ /zip*:* mbales file telegram kanggo ngompres ing format .zip
+    ❍ /unzip*:* mbales file telegram kanggo dekompresi saka format .zip
+
+    Link menyang File:
+    ❍ /up: mbales link download langsung kanggo ngunggah menyang telegram minangka file
+    
+    File menyang Link:
+    ❍ /transfersh: mbales file telegram kanggo upload ing transfersh lan njaluk link download langsung
+    ❍ /tmpninja: mbales file telegram kanggo upload ing tmpninja lan njaluk link download langsung
+    File utawa Teks Kanggo Telegraf:
+    ❍ /tgm : Entuk Link Telegraf saka Media Balasan
+    ❍ /tgt: Entuk Link Telegraf saka Teks sing Dibales
+
+    Tagger
+    ❍ /tagall : kanggo tag saben wong paling sethithik 100 anggota dhisik.
+    ❍ /all <query> : tag kabeh anggota.
+truthordare_help : |
+    ──「 Truth Or Dare 」──
+
+    Truth Or Dare minangka Modul Game Word arupa Pitakonan lan Tantangan
+    Modul iki kaya Truth Or Dare Bot
+   
+    dhawuh :
+    ❍ /truth - Pitakonan
+    ❍ /dare - Tantangan
+   
+    Cathetan : Yen sampeyan duwe saran kanggo tembung kanggo truth or dare, sampeyan bisa Pc @Jokpelid supaya bisa ditambah.
+translator_help: |
+    ──「 Penerjemah 」──
+
+    Gunakake modul iki kanggo nerjemahake barang!
+
+    *Prentah:*
+    ❍ /tl (utawa /tr): minangka balesan pesen, nerjemahake menyang basa Inggris.
+    ❍ /tl <lang>: nerjemahake menyang <lang>
+       contone: /tl ja: nerjemahake menyang Jepang.
+    ❍ /tl <source>//<dest>: nerjemahake saka <source> menyang <lang>.
+       contone: /tl ja//en: nerjemahake saka Jepang menyang Inggris.
+    ❍ /langs: entuk dhaptar basa sing didhukung kanggo terjemahan.
+
+    Aku bisa ngowahi teks dadi swara lan swara dadi teks..
+    ❍ /tts <lang code>*:* Mbales pesen apa wae kanggo entuk teks menyang output ucapan
+    ❍ /stt*:* Ketik balesan menyang pesen swara (mung ndhukung basa Inggris) kanggo ngekstrak teks saka pesen kasebut.
+    
+    *Kode Basa*
+      `af,am,ar,az,be,bg,bn,bs,ca,ceb,co,cs,cy,da,de,el,en,eo,es,
+      et,eu,fa,fi,fr,fy,ga,gd,gl,gu,ha,haw,hi,hmn,hr,ht,hu,hy,
+      id,ig,is,iw,ja,jw,ka,kk,km,kn,ko,ku,ky,la,lb,lo,lt,lv,mg,mi,mk,
+      ml,mn,mr,ms,mt,my,ne,nl,no,ny,pa,pl,ps,pt,ro,ru,sd,si,sk,sl,
+      sm,sn,so,sq,sr,st,su,sv,sw,ta,te,tg,th,tl,tr,uk,ur,uz,
+      vi,xh,yi,yo,zh,zh_CN,zh_TW,zu`
+warns_help: |
+    ──「 Warning 」──
+
+    ❍ /warns <userhandle>: entuk nomer pangguna, lan alesan, peringatan.
+    ❍ /warnlist peringatan: dhaptar kabeh saringan peringatan saiki
+    ❍ /warn <userhandle>: ngelingake pangguna. Sawise 3 warns, pangguna bakal begalan saka grup. Bisa uga digunakake minangka balesan.
+    ❍ /dwarn <userhandle>: ngelingake pangguna lan mbusak pesen kasebut. Sawise 3 warns, pangguna bakal begalan saka grup. Bisa uga digunakake minangka balesan.
+    ❍ /resetwarn <userhandle>: setel ulang peringatan kanggo pangguna. Bisa uga digunakake minangka balesan.
+    ❍ /addwarn <keyword> <reply message>: nyetel filter peringatan ing tembung kunci tartamtu. Yen sampeyan pengin tembung kunci dadi ukara, nyakup karo kuotasi, kayata: / addwarn "ambek banget" Iki pangguna sing nesu.
+    ❍ /nowarn <keyword>: mungkasi filter peringatan
+    ❍ /warnlimit <num>: atur watesan peringatan
+    ❍ /strongwarn <on/yes/off/no>: Yen disetel dadi on, ngluwihi wates warning bakal nyebabake larangan. Yen ora, mung bakal pukulan.
+
+# Admin.py Variabel Text
+user_change_info: "Sampeyan ilang hak kanggo ngganti info chatting!"
+set_error: "Error! {}."
+set_sticker: "Sampeyan kudu mbales sawetara stiker kanggo nyetel obrolan stiker set!"
+set_sticker_success: "Kasil nyetel stiker grup anyar ing {}!"
+set_sticker_restrictions: "Nyuwun pangapunten, amarga watesan telegram chatting kudu duwe minimal 100 anggota sadurunge bisa duwe stiker grup!"
+set_chatpic: "Sampeyan mung bisa nyetel sawetara foto minangka chat pic!"
+set_chatpic_loading: "Mung sedhela..."
+set_chatpic_success: "Kasil nyetel chatpic anyar!"
+set_chatpic_none: "Bales sawetara foto utawa file kanggo nyetel gambar obrolan anyar!"
+rm_chatpic: "Sampeyan ora duwe hak sing cukup kanggo mbusak foto grup"
+rm_change_info: "Sampeyan ora duwe cukup hak kanggo ngganti info chatting!"
+rm_chatpic_success: "Kasil mbusak foto profil obrolan!"
+set_desc: "Nyetel katrangan kosong ora bakal ditindakake!"
+set_desc_len: "Deskripsi kudu kurang saka 255 karakter!"
+set_desc_success: "Kasil nganyari katrangan obrolan ing {}!"
+set_chat_title: "Ketik sawetara teks kanggo nyetel judhul anyar ing obrolan sampeyan!"
+set_chat_title_success: "Kasil nyetel {} minangka judhul obrolan anyar!"
+promote_creator: "Sampeyan ora duwe hak sing perlu kanggo nindakake iku!"
+promote_id_error: "Sampeyan koyone ora ngrujuk menyang pangguna utawa ID sing ditemtokake salah.."
+promote_admin: "Kepriye maksudku kanggo promosi wong sing wis dadi admin?"
+promote_self: "Aku ora bisa ningkataké dhewe! Njaluk admin kanggo nindakake kanggo kula."
+promote_error1: "Aku ora bisa ningkataké wong sing ora ana ing grup."
+promote_error2: "Ana kesalahan nalika promosi."
+promote_success: "Promosi pangguna ing <b>{}</b>\n\nPanganggo: {}\nAdmin: {}"
+full_promote_success: "Mungatake kanthi lengkap pangguna ing <b>{}</b>\n\n<b>Panganggo: {}</b>\n<b>Promotor: {}</b>"
+demote_creator: "Wong iki digawe chatting, carane aku bakal demote wong?"
+demote_admin: "Ora bisa nurunake apa sing ora dipromosekake!"
+demote_self: "Aku ora bisa nyuda dhewe! Njaluk admin kanggo nindakake kanggo kula."
+demote_success: "Kasil nurunake pangurus ing <b>{}</b>\n\nAdmin: <b>{}</b>\nDemoter: {}"
+demote_error: "Ora bisa mudhun. Aku bisa uga ora dadi admin, utawa status admin ditunjuk dening pangguna liya, mula aku ora bisa tumindak!"
+admin_refresh: "✅ Daftar Admin Dianyari\n✅ Bot Diwiwiti maneh!"
+set_title_creator: "Wong iki nggawe obrolan, kepiye carane bisa nyetel judhul khusus kanggo dheweke?"
+set_title_admin: "Ora bisa ngeset judhul kanggo non-admin!\nPromosikake dhisik kanggo nyetel judhul khusus!"
+set_title_self: "Aku ora bisa nyetel judhul dhewe! Njaluk wong sing digawe kula admin kanggo nindakake kanggo kula."
+set_title_none: "Nyetel judhul kosong ora nindakake apa-apa!"
+set_title_len: "Dawa judhul luwih saka 16 karakter.\nDipotong dadi 16 karakter."
+set_title_error: "Sampeyan ora dipromosekake dening kula utawa sampeyan nyetel teks judhul sing ora bisa disetel."
+set_title_success: "Kasil nyetel judhul kanggo <code>{}</code> dadi <code>{}</code>"
+pin_none: "Bales pesen kanggo pin!"
+pin_success: "Aku wis masang pesen."
+unpin_creator: "Sampeyan ora duwe hak sing perlu kanggo nindakake iku!"
+unpin_success: "<a href='{}'>pesen iki</a> dicopot pin."
+unpin_last_msg: "Pesen pungkasan sing disematake dicopot."
+unpin_error: "Aku ora bisa ndeleng pesen pinned, Mungkin wis unpined, utawa pin Pesen kanggo lawas 🙂"
+pinned: '🔽 Dipasang ing {}.'
+pinned_none: "Ora ana pesen sing disematake ing <b>{}!</b>"
+invite_error1: "Aku ora duwe akses menyang link undangan, coba ganti ijinku!"
+invite_error2: "Aku mung bisa menehi link undhangan kanggo supergroups lan saluran, nuwun!"
+list_admin_error: "Prentah iki mung dianggo ing Grup."
+list_admin_loading: "Njupuk admin grup..."
+list_admin_text: "Admin ing <b>{}</b> :"
+list_admin_delete_acc: "☠ Akun sing Dibusak"
+demote_callback_success: "Admin {} Diturunake {}!"
+demote_callback_answer: "Diturunake!"
+demote_callback_error: "Panganggo iki ora dipromosikan utawa wis metu saka grup!"
+# Admin.py Variabel Button
+demote_button: "Turunake"
+pin_button: "👉 Menyang pesen"
+
+# Afk.py Variabel
+reason_len: "\nAlasan afk sampeyan disingkat dadi 100 karakter."
+afk: "{} saiki adoh! {}"
+afk_array1: "{} wis kene!"
+afk_array2: "{} wis bali!"
+afk_array3: "{} saiki ana ing obrolan!"
+afk_array4: "{} wis tangi!"
+afk_array5: "{} wis online maneh!"
+afk_array6: "{} wis tekan kene!"
+afk_array7: "Sugeng rawuh! {}"
+afk_array8: "Endi {}?\nIng obrolan!"
+afk_check: "{} iku afk"
+afk_check_reason: "{} is afk.\nAlasan: <code>{}</code>"
+
+# Antichannel.py Variabel
+active_antichannel: "Aktifake antichannel ing {}"
+disable_antichannel: "Antichannel dipateni ing {}"
+invalid_antichannel: "Argumen sing ora dingerteni {}"
+status_antichannel: "Setelan antichannel saiki {} ing {}"
+
+# Antiflood.py Variabel
+invalid_antiflood: "Aku ora bisa mbatesi wong kene, wenehi ijin dhisik! Nganti saiki, aku bakal mateni anti-banjir"
+antiflood_disable: "Antiflood wis dipateni ing {}"
+antiflood_disable_succes: "Antiflood wis dipateni"
+
+# Approve.py Variabel
+approve_invalid: "Aku ora ngerti sapa sing diomongake, sampeyan kudu nemtokake pangguna!"
+
+#AntinNSFW.py Variabel
+enable_antinsfw: "Sistem AntiNSFW sing diaktifake. Aku bakal Mbusak Pesen sing Ngandhut Konten sing Ora Cocok"
+disable_antinsfw: "Sistem AntiNSFW dipatèni."
+
+# Bans.py Variabel
+bans_notfound: "⚠️ Panganggo ora ditemokake"
+bans_usernotfound: "Ora bisa nemokake wong iki"
+bans_me: "Oh ya, Larang aku, Noob"
+bans_owner: "Nyoba nglawan Guruku ya?"
+bans_devs: "Aku ora bisa tumindak marang Pangeran kita."
+bans_dragons: "Melawan Kaisar iki ing kene bakal mbebayani nyawa pangguna."
+bans_demons: "Nggawa pesenan saka Kapten kanggo nglawan abdi Assasin."
+bans_tigers: "Nggawa pesen saka Prajurit kanggo nglawan abdi Lancer."
+bans_wolves: "Akses pedagang nggawe dheweke nglarang kekebalan!"
+bans_not_admins: "⚠️ Ora bisa nglarang admin."
+bans_dont_work: "Uhm...ora bisa ..."
+bans_notuserfound: "⚠️ Aku ora bisa nemokake pangguna iki"
+bans_crazy: "Aku ora bakal BAN dhewe, apa sampeyan edan"
+bans_feel: "Aku ora seneng"
+bans_istime: "Sampeyan durung nemtokake wektu kanggo nglarang pangguna iki"
+bans_fail: "Wah, aku ora bisa nglarang pangguna kasebut."
+unmute_fail: "⚠️ Sampeyan ora duwe cukup hak kanggo unmute wong"
+delete_fail: "⚠️ Sampeyan ora duwe hak sing cukup kanggo mbusak pesen iki"
+delete_done: "Dibusak!"
+bans_not_ban: "Yahh aku ora bakal nglakoni."
+bans_user_punch: "Aku pancene pengin bisa pukul pangguna iki...."
+bans_cant_punch: "⚠️ Ya ampun, aku ora bisa pukul pangguna iku."
+bans_fail_botdonthere: "Kadospundi kula badhe mbebasaken piyambak menawi kula mboten wonten mriki...?"
+bans_id_valid: "Wenehana ID chatting sing valid"
+bans_ready_chat: "Lha kowe wis chatting ora??"
+bans_gtfo: "Ya, sampeyan bener! GTFO."
+bans_i_cant: "Hah? Aku ora bisa 😩."
+bans_snipe_echo: "Tulung aku chatting kanggo echo!"
+bans_notpart_snipe: "Ora bisa ngirim pesen. Mbok menawa aku dudu bagéan saka grup?"
+# Buttons Bans.py
+unban_button: "🔄 Batalkan Ban"
+delete_button: "🗑️ Tutup"
+
+# Muting.py Variabel
+mute_already: "Panganggo iki wis bisu!"
+mute_give_user: "Sampeyan kudu menehi jeneng panganggo kanggo unmute, utawa mbales wong supaya ora bisu"
+mute_user_unmute: "Panganggo iki wis duwe hak ngomong"
+mute_invalidtime: "Sampeyan durung nemtokake wektu kanggo bisu pangguna iki"
+mute_user_done: "Panganggo iki wis bisu"
+mute_user_failed: "Wah, aku ora bisa bisu pangguna kasebut"
+user_not_mute: "⚠️ Panganggo iki ora bisu utawa wis metu saka grup!"
+
+#GlobanBan.py Variabel
+gban_not_found: "Panganggo iki ora ditemokake utawa ID salah !!"
+gban_devs_not: "Panganggo iki minangka salah sawijining pangriptaku, mula ora bisa dilarang sacara global 😒"
+gban_dragons_not: "Astagfirulloh aku diapusi maneh, penggunane iku DRAGONS dadi ora kena dilarang hehe 😒"
+gban_demons_not: "OOOH ana sing nyoba nglawan Bencana Setan! *nyebut brondong*"
+gban_tigers_not: "Iku Macan! Dheweke ora bisa dilarang!"
+gban_wolves_not: "Iku Wolf! Dheweke ora bisa dilarang!"
+gban_bot_not: "Sampeyan uhh...pengin kula pukul dhewe?"
+gban_tele_not: "Bodho! Sampeyan ora bisa nyerang teknologi asli Telegram!"
+gban_user_notfound: "Aku ora bisa nemokake pangguna iki 😔."
+gban_private_fail: "Iki dudu pangguna!"
+gban_already: "Panganggo iki wis gbanned; Aku bakal ngganti alesan, nanging sampeyan durung menehi kula siji ..."
+gban_user_already: "Panganggo iki wis gbanned, amarga alasan ing ngisor iki:\n <code>{}</code> \nAku wis lunga lan nganyari nganggo alesan anyar sampeyan!"
+gban_no_reason: "Panganggo iki wis gbanned, nanging ora duwe alesan disetel; Aku wis lunga lan nganyari!"
+user_no_gban: "Panganggo iki ora dilarang!"
+gban_globally: "Aku bakal menehi {} kesempatan kaping pindho, sacara global."
+gban_kinder: "Ora ana pangguna sing dilarang! Sampeyan luwih apik tinimbang sing dakkira..."
