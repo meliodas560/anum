@@ -13,7 +13,7 @@ class Language:
             return self.languages[lang][string]
         except KeyError:
             # a keyerror happened, the english file must have it
-            en_string = self.languages["en"].get(string)
+            en_string = self.languages["id"].get(string)
             if en_string is None:
                 raise StringNotFound(f"String: ({string}) not found.")
             return en_string
