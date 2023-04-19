@@ -39,7 +39,7 @@ def set_lang(chat_id: str, lang: str) -> None:
 def get_chat_lang(chat_id: str) -> str:
     lang = CHAT_LANG.get(str(chat_id))
     if lang is None:
-        lang = "en"
+        lang = "id"
     return lang
 
 
