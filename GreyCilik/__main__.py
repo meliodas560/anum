@@ -209,15 +209,16 @@ def start(update: Update, context: CallbackContext):
                 reply_markup=InlineKeyboardMarkup(
                     [
                         [
-                            InlineKeyboardButton(
-                                text=gs(chat.id, "add_bot_to_group_button"), url="http://t.me/ReferzStoreAssistant_Bot?startgroup=new"),
-                        ],
+                            InlineKeyboardButton(text="🧸 Owner", url="https://t.me/yankeseleo"),
+                            InlineKeyboardButton(text="Support 🚀", url="https://t.me/+uSY5LHBBqe9mODUx"),
+                        ],                        
                         [
                             InlineKeyboardButton(text=gs(chat.id, "help_button"), callback_data="help_back"),
-                            InlineKeyboardButton(text=gs(chat.id, "updates_channel_link_button"), url="t.me/OfficialReferzStore"),
+                            InlineKeyboardButton(text=gs(chat.id, "donate_button"), callback_data="donate_"),
                         ],
                         [
-                            InlineKeyboardButton(text=gs(chat.id, "datalang"), callback_data="pmback_"),
+                            InlineKeyboardButton(
+                                text=gs(chat.id, "add_bot_to_group_button"), url="https://t.me/asupanrlsbot?startgroup=new"),
                         ]
                     ]
                 ),
@@ -407,15 +408,16 @@ def cilik_about_callback(update, context):
                 reply_markup=InlineKeyboardMarkup(
                     [
                         [
-                            InlineKeyboardButton(
-                                text=gs(chat.id, "add_bot_to_group_button"), url="http://t.me/ReferzStoreAssistant_Bot?startgroup=new"),
-                        ],
+                            InlineKeyboardButton(text="🧸 Owner", url="https://t.me/yankeseleo"),
+                            InlineKeyboardButton(text="Support 🚀", url="https://t.me/+uSY5LHBBqe9mODUx"),
+                        ],                        
                         [
                             InlineKeyboardButton(text=gs(chat.id, "help_button"), callback_data="help_back"),
-                            InlineKeyboardButton(text=gs(chat.id, "updates_channel_link_button"), url="t.me/OfficialReferzStore"),
+                            InlineKeyboardButton(text=gs(chat.id, "donate_button"), callback_data="donate_"),
                         ],
                         [
-                            InlineKeyboardButton(text=gs(chat.id, "datalang"), callback_data="pmback_"),
+                            InlineKeyboardButton(
+                                text=gs(chat.id, "add_bot_to_group_button"), url="https://t.me/asupanrlsbot?startgroup=new"),
                         ]
                     ]
                 ),
