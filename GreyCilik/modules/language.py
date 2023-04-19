@@ -174,10 +174,9 @@ def pm_back_button(update: Update, _) -> None:
         query.message.edit_text(msg_text, reply_markup=InlineKeyboardMarkup(keyb))    
 
         
-def helps(chat):
-    return gs(chat, "language_help")
 
-SETLANG_HANDLER = CommandHandler("setlang", set_lang)
+
+SETLANG_HANDLER = CommandHandler("jsetlang", set_lang)
 PM_SETLANG_HANDLER = CallbackQueryHandler(pm_lang, pattern=r"pm_setlang")
 SETLANG_BUTTON_HANDLER = CallbackQueryHandler(lang_button, pattern=r"setLang_")
 PM_SETLANG_BUTTON_HANDLER = CallbackQueryHandler(pm_lang_button, pattern=r"pmsetLang_")
