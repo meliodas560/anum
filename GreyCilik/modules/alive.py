@@ -23,7 +23,7 @@ async def awake(event):
   GREY += f"⚡️ **Telethon Version :** `{tlhver}` \n\n"
   GREY += f"⚡️ **Pyrogram Version :** `{pyrover}` \n\n"
   GREY += "**Thanks For Adding Me Here My Love ❤️**"
-  BUTTON = [[Button.url("ʜᴇʟᴘ​", "https://t.me/cemarasupport?start=help"), Button.url("sᴜᴘsᴜᴘᴘᴏʀ", "https://t.me/+Tp5IJIq4NjIyYWE1")]
+  BUTTON = [[Button.url("ʜᴇʟᴘ​", "https://t.me/cemarasupport?start=help"), Button.url("sᴜᴘsᴜᴘᴘᴏʀ", "https://t.me/+Tp5IJIq4NjIyYWE1")]]
   await tbot.send_file(event.chat_id, PHOTO, caption=GREY,  buttons=BUTTON)
 
 
