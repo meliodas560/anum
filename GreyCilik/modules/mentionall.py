@@ -82,7 +82,7 @@ async def cancel_spam(event):
             spam_chats.remove(event.chat_id)
         except:
             pass
-        return await event.respond("Stopped.")
+        return await event.respond("udah berhenti tod.")
 
     
 def helps(chat):
