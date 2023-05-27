@@ -86,7 +86,7 @@ def get_readable_time(seconds: int) -> str:
 CILIK_IMG = "https://telegra.ph/file/1768f132363de7b554b3b.jpg"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
- You can support the project by contacting @jokpelid \
+ You can support the project by contacting @berisikjeleg \
  Supporting isnt always financial! \
  Those who cannot provide monetary support are welcome to help us develop the bot at ."""
 
@@ -209,8 +209,8 @@ def start(update: Update, context: CallbackContext):
                 reply_markup=InlineKeyboardMarkup(
                     [
                         [
-                            InlineKeyboardButton(text="🧸 Owner", url="https://t.me/yankeseleo"),
-                            InlineKeyboardButton(text="Support 🚀", url="https://t.me/+uSY5LHBBqe9mODUx"),
+                            InlineKeyboardButton(text="🧸 Owner", url="https://t.me/berisikjeleg"),
+                            InlineKeyboardButton(text="Support 🚀", url="https://t.me/javaneseh")
                         ],                        
                         [
                             InlineKeyboardButton(text=gs(chat.id, "help_button"), callback_data="help_back"),
@@ -218,7 +218,7 @@ def start(update: Update, context: CallbackContext):
                         ],
                         [
                             InlineKeyboardButton(
-                                text=gs(chat.id, "add_bot_to_group_button"), url="https://t.me/asupanrlsbot?startgroup=new"),
+                                text=gs(chat.id, "add_bot_to_group_button"), url="https://t.me/{?startgroup=new"),
                         ]
                     ]
                 ),
