@@ -30,7 +30,7 @@ async def lastname(steal):
                 response = await conv.get_response()
             except YouBlockedUserError:
                 await steal.reply(
-                    "```Error, report to @libitrashh```"
+                    "```Error, report to @cemarasupport```"
                 )
                 return
             if r.text.startswith("Name"):
@@ -43,7 +43,7 @@ async def lastname(steal):
             if response.text.startswith("No records") or r.text.startswith(
                 "No records"
             ):
-                await puki.edit("```I Can't Find This User's Information, This User Has Never Changed His Name Before.```")
+                await puki.edit("```SABAR MEK.```")
                 await ubot.delete_messages(
                     conv.chat_id, [msg.id, r.id, response.id]
                 )
@@ -55,4 +55,4 @@ async def lastname(steal):
                 conv.chat_id, [msg.id, r.id, response.id, respond.id]
             )
     except TimeoutError:
-        return await puki.edit("`I'm Sick Sorry...`")
+        return await puki.edit("`gabisa di cek tod...`")
