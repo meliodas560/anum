@@ -218,7 +218,7 @@ def start(update: Update, context: CallbackContext):
                         ],
                         [
                             InlineKeyboardButton(
-                                text=gs(chat.id, "add_bot_to_group_button"), url="https://t.me/{?startgroup=new"),
+                                text=gs(chat.id, "add_bot_to_group_button"), url=f"https://t.me/{pbot.me.username}?startgroup=new"),
                         ]
                     ]
                 ),
@@ -408,8 +408,8 @@ def cilik_about_callback(update, context):
                 reply_markup=InlineKeyboardMarkup(
                     [
                         [
-                            InlineKeyboardButton(text="🧸 Owner", url="https://t.me/yankeseleo"),
-                            InlineKeyboardButton(text="Support 🚀", url="https://t.me/+uSY5LHBBqe9mODUx"),
+                            InlineKeyboardButton(text="🧸 Owner", url="https://t.me/berisikjeleg"),
+                            InlineKeyboardButton(text="Support 🚀", url="https://t.me/javaneseh"),
                         ],                        
                         [
                             InlineKeyboardButton(text=gs(chat.id, "help_button"), callback_data="help_back"),
@@ -417,7 +417,7 @@ def cilik_about_callback(update, context):
                         ],
                         [
                             InlineKeyboardButton(
-                                text=gs(chat.id, "add_bot_to_group_button"), url="https://t.me/asupanrlsbot?startgroup=new"),
+                                text=gs(chat.id, "add_bot_to_group_button"), url=f"https://t.me/{pbot.me.username}?startgroup=new"),
                         ]
                     ]
                 ),
@@ -767,7 +767,7 @@ def main():
         try:
             dispatcher.bot.sendMessage(
                 f"@{SUPPORT_CHAT}", 
-                f"""*Hey I`am Alive!*👋🏻\n\n*Python:* `3.10.5`\n*Pyrogram:* `1.4.16`\n*PyTgCalls:* `0.9.0 Beta 1`""",
+                f"""*Hey I`am Alive!*👋🏻\n\n*Python:* `3.10.5`\n*Pyrogram:* `1.4.16`\n*PyTgCalls:* `0.9.7 Beta 1`""",
                 parse_mode=ParseMode.MARKDOWN
             )
         except Unauthorized:
