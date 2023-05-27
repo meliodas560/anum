@@ -14,24 +14,24 @@ class Config(object):
     # REQUIRED
     # Login to https://my.telegram.org and fill in these slots with the details given by it
 
-    API_ID = 17830773  # integer value, dont use "
-    API_HASH = "7253db2e173b6b24aefc507f9f860366"
+    API_ID = 9292497  # integer value, dont use "
+    API_HASH = "7ba6bfc601e9e6f384b2b449f11cc645"
     MONGO_DB_URI = "mongodb+srv://greycilik:greycilik@cluster0.uxabg.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
-    STRING_SESSION = "1BVtsOHsBu6vg3_mJAS6bnHqsxjXTjR18we_vONyWua_6qmuTGB5jWV9huF9QwUah6Xqdn2O6f-rpJp3m6Mz2_bP2Bs70PnPqefLE8PG4tja2hT2Qfwf88ZBXqdRYlrj2yNGBhdA6B52ifxRh6mKsfjb-cJ-mBfp8kehNmRr4-7TqOIvg8gorlsMxAbCe03zgw9gvv6CSrdqY7-tCy84hnity-l4DA0cx3_APc-rVGZM00lPw104O4tgT5fJyXyvukswBoQyVIABWAALEzaUN-hDZQ6hmIK7CSqYThoaDrRyjKVtNAU2pEmH6TsFqaVghRTlkYw7DBqrLzZWW9BHmFFm2UK97E1w="
-    SESSION_STRING = "1BVtsOHsBu6vg3_mJAS6bnHqsxjXTjR18we_vONyWua_6qmuTGB5jWV9huF9QwUah6Xqdn2O6f-rpJp3m6Mz2_bP2Bs70PnPqefLE8PG4tja2hT2Qfwf88ZBXqdRYlrj2yNGBhdA6B52ifxRh6mKsfjb-cJ-mBfp8kehNmRr4-7TqOIvg8gorlsMxAbCe03zgw9gvv6CSrdqY7-tCy84hnity-l4DA0cx3_APc-rVGZM00lPw104O4tgT5fJyXyvukswBoQyVIABWAALEzaUN-hDZQ6hmIK7CSqYThoaDrRyjKVtNAU2pEmH6TsFqaVghRTlkYw7DBqrLzZWW9BHmFFm2UK97E1w="
-    TOKEN = "5094084246:AAGBc12Zxe85p91viNPZUfEQ2mg7OzBDEHE"  # This var used to be API_KEY but it is now TOKEN, adjust accordingly.
-    OWNER_ID = 1784606556  # If you dont know, run the bot and do /id in your private chat with it, also an integer
-    OWNER_USERNAME = "greyyvbss"
+    STRING_SESSION = "1BVtsOGkBu66uR-ZyOP5VQtTYbF00fT8_rijF3tIqP9CIS7taYsz96qwSREAUppGEeslHTYN4jvZrFAg4ioFvirBfojQP5CRuiDAypL7hBHU8jkmE9q4CIvOBkQZMaT98T_O7hP8x3pnI5MHf_YlhMBsBMxm-4CaxCvNqqZDhXYj-J9lBxxtWedhxQp_Tv2ErHfG4wYBu86RwyDqArlO-7GazjXMjg4qfzcnTeuHg8qpBc0FTxdtBl_cW_P4MGp4F9N1FS-6QYyj2hswVn1NqG-6Qo-cXzSJ-wFR7afneMyDxXSKPOpi3rr8zOHlvvS-o8lcIsjw2XhFWk1PwP9ssyOBm9CeBS6w="
+    SESSION_STRING = "1BVtsOJgBu1Jx-tpbU3jDbHlxo1TQxSikl0ZUXTni8Nd42VVuSCnnI3Oy2e9XeB2rRAcTbXL8-fwjc_sPV9vQgswyskQgJQ1r7whEFXRuZA97XVYhfD24ifCo4X-Jr6BYFJumSUoGj77A53VMEHD_A_jfXFENEAx5DwCCly9xo4XV5LkkvO3reogfP1qafoJD5adehjE-lHP1U8_q8hI20qfTV2XZHeVjOZC5xOPBWNsYDkAcTRXagsktk5aPnUAbfrq-ClNC12-fWSd0HDHxNAR0FTGJIpagHa777LZkuaWOPkf58tm-QKYr9P-tKpIgYZeNYDn9882L6E_BEHwlFROQzmSYxvc="
+    TOKEN = "6149489784:AAFanDmLMl3tU3g3fWoWA-p1D9koUS7wFhw"  # This var used to be API_KEY but it is now TOKEN, adjust accordingly.
+    OWNER_ID = 1696803773  # If you dont know, run the bot and do /id in your private chat with it, also an integer
+    OWNER_USERNAME = "berisikjeleg"
     DB_URL = "postgresql://ajgqajge:RyVELQQ2_RdhhaSUdH4Z-Dx7kxyj0DVZ@ruby.db.elephantsql.com/ajgqajge"
-    SUPPORT_CHAT = "CilikSupport"  # Your own group for support, do not add the @
+    SUPPORT_CHAT = "meliodassupoort"  # Your own group for support, do not add the @
     ERROR_LOG = (
-        -1001692951846
+        -1001854573739
     )
     JOIN_LOGGER = (
-        -1001692951846
+        -1001814648622
     )  # Prints any new group the bot is added to, prints just the name and ID.
     EVENT_LOGS = (
-        -1001692951846
+        -1001854573739
     )  # Prints information like gbans, sudo promotes, AI enabled disable states that may help in debugging and shit
 
     # RECOMMENDED
@@ -43,15 +43,15 @@ class Config(object):
     URL = None
     SPAMWATCH_API = ""  # go to support.spamwat.ch to get key
     SPAMWATCH_SUPPORT_CHAT = "@SpamWatchSupport"
-    ARQ_API_KEY = "QATNJK-ANMJGT-EZUTWM-TOZGVA-ARQ"
+    ARQ_API_KEY = "LIVLGP-KEGPBF-TFJNIC-WMLSEJ-ARQ"
     ARQ_API_URL = "https://arq.hamker.in"
     TEMP_DOWNLOAD_DIRECTORY = "Downloads"
     OPENWEATHERMAP_ID = ""
-    REM_BG_API_KEY = "LBGDKdK5tqN6UW26KGoQkKsQ"
-    BOT_USERNAME = "GreyCilik_bot"
+    REM_BG_API_KEY = ""
+    BOT_USERNAME = "meliodaskunrobot"
     LASTFM_API_KEY = ""
     CF_API_KEY = ""
-    BOT_ID = "5094084246"
+    BOT_ID = "6149489784"
     
 
     # OPTIONAL
