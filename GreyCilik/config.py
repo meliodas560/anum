@@ -19,7 +19,7 @@ class Config(object):
     MONGO_DB_URI = "mongodb+srv://greycilik:greycilik@cluster0.uxabg.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
     STRING_SESSION = "1BVtsOGkBu66uR-ZyOP5VQtTYbF00fT8_rijF3tIqP9CIS7taYsz96qwSREAUppGEeslHTYN4jvZrFAg4ioFvirBfojQP5CRuiDAypL7hBHU8jkmE9q4CIvOBkQZMaT98T_O7hP8x3pnI5MHf_YlhMBsBMxm-4CaxCvNqqZDhXYj-J9lBxxtWedhxQp_Tv2ErHfG4wYBu86RwyDqArlO-7GazjXMjg4qfzcnTeuHg8qpBc0FTxdtBl_cW_P4MGp4F9N1FS-6QYyj2hswVn1NqG-6Qo-cXzSJ-wFR7afneMyDxXSKPOpi3rr8zOHlvvS-o8lcIsjw2XhFWk1PwP9ssyOBm9CeBS6w="
     SESSION_STRING = "1BVtsOJgBu1Jx-tpbU3jDbHlxo1TQxSikl0ZUXTni8Nd42VVuSCnnI3Oy2e9XeB2rRAcTbXL8-fwjc_sPV9vQgswyskQgJQ1r7whEFXRuZA97XVYhfD24ifCo4X-Jr6BYFJumSUoGj77A53VMEHD_A_jfXFENEAx5DwCCly9xo4XV5LkkvO3reogfP1qafoJD5adehjE-lHP1U8_q8hI20qfTV2XZHeVjOZC5xOPBWNsYDkAcTRXagsktk5aPnUAbfrq-ClNC12-fWSd0HDHxNAR0FTGJIpagHa777LZkuaWOPkf58tm-QKYr9P-tKpIgYZeNYDn9882L6E_BEHwlFROQzmSYxvc="
-    TOKEN = "6149489784:AAFanDmLMl3tU3g3fWoWA-p1D9koUS7wFhw"  # This var used to be API_KEY but it is now TOKEN, adjust accordingly.
+    TOKEN = ""  # This var used to be API_KEY but it is now TOKEN, adjust accordingly.
     OWNER_ID = 1696803773  # If you dont know, run the bot and do /id in your private chat with it, also an integer
     OWNER_USERNAME = "berisikjeleg"
     DB_URL = "postgresql://ajgqajge:RyVELQQ2_RdhhaSUdH4Z-Dx7kxyj0DVZ@ruby.db.elephantsql.com/ajgqajge"
